@@ -1,0 +1,27 @@
+img {
+    height: 350px;
+    width: auto;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+    color: rgb(146, 212, 47);
+    font-size: 17px;
+}
+
+ol {
+    color: orange;
+    font-size: 17px;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+    background-color: rgba(64, 170, 15, 0.61);
+}
+
+p {
+    font-size: 20px;
+}
